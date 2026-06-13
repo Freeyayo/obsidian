@@ -186,48 +186,68 @@ The social environment, cultural setting, or surrounding context in which a pers
 
 **repressive**
 Restricting freedom, especially of behavior, expression, or identity, through social norms or authority.
-压抑的；克制的；压制性的
+压抑的；克制的；压制性的 ^261a24
 
 **social codes**
 Unwritten rules, customs, or conventions that govern behavior within a particular society or group.
-社会准则；行为规范；不成文的社交规则
+社会准则；行为规范；不成文的社交规则 ^037ebb
 
 **hypocrisies**
 Pretending to have virtues, beliefs, or feelings that one does not actually possess; behavior that contradicts stated values.
-虚伪；伪善；言行不一
+虚伪；伪善；言行不一 ^920895
 
 **drew direct parallels**
 Explicitly pointed out similarities or analogies between two different things or situations.
-直接进行类比；明确指出相似之处
+直接进行类比；明确指出相似之处 ^1f0b3c
 
 **goer**
 A person who regularly attends a particular type of event, place, or activity (e.g., salon-goer, theater-goer).
-常去……的人；……的常客
+常去……的人；……的常客 ^5a1f2f
 
-**hostesses**
+**hostesses**[ˈhoʊstəsəz]
 Women who entertain guests socially, especially those who organize and preside over salons or private gatherings.
-女主人；（沙龙）女主持
+女主人；（沙龙）女主持 ^5bde18
 
 **minutiae**[mɪˈnuːʃiiː]
 Very small, trivial, or precise details; minor or incidental matters.
-细枝末节；琐碎细节；微小之处
+细枝末节；琐碎细节；微小之处 ^9d6343
 
 **etiquette**[ˈetɪkət]
 The customary code of polite behavior or proper manners within a society or particular group.
-礼仪；礼节；规矩
+礼仪；礼节；规矩 ^76f639
 
 **snobbery**
 Attitudes or behavior that suggests a person believes themselves superior to others based on social class, taste, or exclusivity.
-势利；媚上欺下；自视清高
+势利；媚上欺下；自视清高 ^da34bf
 
 **melancholic appreciation**[ˌmelənˈkɑːlɪk]
 A nostalgic, sorrowful, or pensive recognition of beauty or value, often mixed with sadness over loss or impermanence.
-带着忧郁的欣赏；感伤而珍视的态度
+带着忧郁的欣赏；感伤而珍视的态度 ^39cb3e
 
-**overt**
+**overt**[oʊˈvɜːrt]
 Done or shown openly; not hidden, secret, or concealed.
-公开的；明显的；不加掩饰的
+公开的；明显的；不加掩饰的 ^bf9114
 
 **dissection**
 Detailed analysis or examination of something by separating it into its component parts (often metaphorically, like dissecting a social phenomenon).
-剖析；详细分析
+剖析；详细分析 ^8f1b23
+
+**vantage**
+A position or place that provides a good, clear, or advantageous view of something; figuratively, a unique standpoint from which to observe or analyze a situation.
+有利位置；优越视角；独特的观察角度 ^25a579
+
+**temperament**[ˈtemprəmənt]
+A person's natural or inherent disposition, character, or manner of thinking and reacting emotionally to situations.
+性情；气质；禀性；性格特质 ^3c6fb9
+
+**ethnographic**
+Relating to the systematic, descriptive study of different human cultures, customs, and social groups — often through close observation and detailed recording of everyday life.
+民族志的；人种志的；文化描述的（指对社会群体生活方式的细致记录式观察） ^89a10b
+
+**Satire**[ˈsætaɪər]
+A literary or artistic technique that uses humor, irony, exaggeration, or ridicule to expose and criticize human folly, vices, or societal shortcomings.
+讽刺；讥讽；讽刺文学/艺术 ^ce44b5
+
+**pettiness**
+The quality of being overly concerned with trivial, small, or unimportant matters; narrow-mindedness or meanness over minor issues.
+琐碎；小心眼；斤斤计较；狭隘 ^e03cf7
