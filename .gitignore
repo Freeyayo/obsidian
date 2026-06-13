@@ -1,5 +1,8 @@
-.obsidian/workspace.json.obsidian/workspace.json
-.trash/
-.obsidian/cache/
-.obsidian/
+.obsidian/workspace.json
 .obsidian/workspace-mobile.json
+.obsidian/cache/
+.obsidian/backup/
+.trash/
+
+.DS_Store
+Thumbs.db
