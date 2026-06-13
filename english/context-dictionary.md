@@ -163,3 +163,71 @@ Suggests or tends to provoke a particular response or consequence (not necessari
 **entangled**  
 Caught or twisted in something complicated, from which it is difficult to escape.  
 被纠缠；陷入；卷入 ^9d689c
+
+**monumental**
+Great in size, importance, or lasting significance; exceptionally large or influential.
+宏伟的；不朽的；具有重大意义的 ^969b34
+
+**raised**
+Brought up or nurtured from childhood; having a particular upbringing or cultural background.
+被抚养长大；成长于……背景 ^de543a
+
+**intriguing**
+Arousing curiosity or interest; fascinating or mysterious in a compelling way.
+引人入胜的；令人好奇的；耐人寻味的 ^321cb0
+
+**refined**
+Elegant, cultured, or sophisticated; having or showing well-bred taste and manners.
+精致的；优雅的；高雅的 ^12e9eb
+
+**milieu**[mɪlˈjuː]
+The social environment, cultural setting, or surrounding context in which a person lives or events occur.
+社会环境；文化氛围；圈子；背景 ^094c23
+
+**repressive**
+Restricting freedom, especially of behavior, expression, or identity, through social norms or authority.
+压抑的；克制的；压制性的
+
+**social codes**
+Unwritten rules, customs, or conventions that govern behavior within a particular society or group.
+社会准则；行为规范；不成文的社交规则
+
+**hypocrisies**
+Pretending to have virtues, beliefs, or feelings that one does not actually possess; behavior that contradicts stated values.
+虚伪；伪善；言行不一
+
+**drew direct parallels**
+Explicitly pointed out similarities or analogies between two different things or situations.
+直接进行类比；明确指出相似之处
+
+**goer**
+A person who regularly attends a particular type of event, place, or activity (e.g., salon-goer, theater-goer).
+常去……的人；……的常客
+
+**hostesses**
+Women who entertain guests socially, especially those who organize and preside over salons or private gatherings.
+女主人；（沙龙）女主持
+
+**minutiae**[mɪˈnuːʃiiː]
+Very small, trivial, or precise details; minor or incidental matters.
+细枝末节；琐碎细节；微小之处
+
+**etiquette**[ˈetɪkət]
+The customary code of polite behavior or proper manners within a society or particular group.
+礼仪；礼节；规矩
+
+**snobbery**
+Attitudes or behavior that suggests a person believes themselves superior to others based on social class, taste, or exclusivity.
+势利；媚上欺下；自视清高
+
+**melancholic appreciation**[ˌmelənˈkɑːlɪk]
+A nostalgic, sorrowful, or pensive recognition of beauty or value, often mixed with sadness over loss or impermanence.
+带着忧郁的欣赏；感伤而珍视的态度
+
+**overt**
+Done or shown openly; not hidden, secret, or concealed.
+公开的；明显的；不加掩饰的
+
+**dissection**
+Detailed analysis or examination of something by separating it into its component parts (often metaphorically, like dissecting a social phenomenon).
+剖析；详细分析

@@ -2,6 +2,7 @@
 tags:
   - mywiki
   - politic
+  - history
 ---
 In *The Origins of Totalitarianism* (Chapter III: “The Jews and Society,” section “Between Vice and Crime”), Hannah Arendt identifies a profound <mark style="background: #FFB86CA6;">**psychological and social transformation** in 19th-century Europe that reshaped antisemitism.</mark> This shift moved from viewing Jewishness (or associated behaviors) as a **crime** — a specific, individual act for which one could be held responsible, punished, or potentially redeemed (e.g., through conversion or reform) — to a **vice**: an inherent, unchangeable psychological quality, racial trait, or “inner nature” that predestined the group. This evolution was not merely attitudinal[^1] but structurally rooted in the contradictions of emancipation, bourgeois[^2] society, and the nation-state’s transformations. <mark style="background: #FFB86CA6;">It facilitated the later leap from social prejudice to political ideology and totalitarian extermination</mark>[^3].
 
@@ -11,7 +12,10 @@ In *The Origins of Totalitarianism* (Chapter III: “The Jews and Society,” se
    Traditionally, antisemitism operated within a legal-moral framework where “crimes” (specific actions like alleged usury[^4] or disloyalty) were punishable, and religious identity could be altered through conversion. <mark style="background: #BBFABBA6;">In the modern shift, society assimilated the notion of crime into an **innate vice**</mark> — something that “ruled” the individual like an addiction, stripping away personal responsibility. Jewishness became a permanent “psychological quality” or “racial stain,” from which there was no escape. Arendt emphasizes that this denied individuals the dignity of being judged for their actions.
 
 2. **Social Boredom[^5], Decadence[^6], and Exoticism[^7] in Bourgeois Society**  
-   The shift accelerated amid the “abscess[^8] of terrible boredom” in late 19th-century high society (salons[^9] and aristocratic-bourgeois circles). Decadent elites became fascinated with the “mysterious,” “monstrous,” and “vicious.” Jews were welcomed not as equals but as **“exception Jews”** embodying[^10] an exotic vice — refined, exciting, and secretly attractive. Arendt references Benjamin Disraeli’s observation: “What is a crime among the multitude[^11] is only a vice among the few.” This parallels attitudes toward homosexuality in Proust’s world: tolerated as a fascinating trait but precarious[^12]. Individual Jews gained social access precisely because of their perceived “Jewishness” as a vice, not despite it.
+   The shift accelerated amid the “abscess[^8] of terrible boredom” in late 19th-century high society (salons[^9] and aristocratic-bourgeois circles). Decadent elites became fascinated with the “mysterious,” “monstrous,” and “vicious.” Jews were welcomed not as equals but as **“exception Jews”** embodying[^10] an exotic vice — refined, exciting, and secretly attractive. Arendt references Benjamin Disraeli’s observation: “What is a crime among the multitude[^11] is only a vice among the few.” This parallels attitudes toward homosexuality in Proust’s[^25] world: tolerated as a fascinating trait but precarious[^12]. Individual Jews gained social access precisely because of their perceived “Jewishness” as a vice, not despite it.
+
+> [!NOTE]
+> The concept of “perverted tolerance” (or “seeming broadmindedness”) is Hannah Arendt’s interpretive analysis, not a direct phrase or scene invented by Proust. However, the underlying social dynamic she describes — the cruel, essentializing “tolerance” of Jews (and homosexuals) as exotic “vices” rather than judging them by their actions — is drawn directly from the content and observations in Proust’s novel In Search of Lost Time.
 
 3. **Perverted[^13] Tolerance and Pathologization[^14]**  
    This created a **“seeming broadmindedness[^15]”** that Arendt calls more cruel than overt persecution. Society pathologized collective traits, treating Jewish identity as an inescapable predisposition rather than chosen behavior. Judges might even show “leniency[^16]” for acts like treason[^17] by attributing them to “racial predestination” (“he could not help it”). While appearing tolerant, this stripped Jews of human dignity and independent agency[^18] — they were no longer responsible actors but carriers of an inherent flaw. This “perverted tolerance” <mark style="background: #BBFABBA6;">normalized viewing the group as existentially problematic</mark>.
@@ -72,3 +76,5 @@ When social norms penetrated the legal and political sphere during crises (e.g.,
 [^23]: [[context-dictionary#^71dfbf]]
 
 [^24]: [[context-dictionary#^9d689c]]
+
+[^25]: [[Marcel Proust#^70e972]]
